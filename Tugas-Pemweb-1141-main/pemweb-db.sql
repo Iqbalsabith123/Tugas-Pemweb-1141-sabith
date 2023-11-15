@@ -43,7 +43,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `role`, `password`, `photo`, `created_at`, `updated_at`) VALUES
-(18, 'Risky Mawa Santoso', 'ickyfebrian0@gmail.com', 'admin', '$2y$10$7UmbOgNLhvFIwCiTxGHsmeE3Mr.pQm4monOrv9gIQ/8yfSChXNxN2', NULL, '2023-11-11 10:14:54', NULL),
+(18, 'Iqbal sabith firdaus', 'ickyfebrian0@gmail.com', 'admin', '$2y$10$7UmbOgNLhvFIwCiTxGHsmeE3Mr.pQm4monOrv9gIQ/8yfSChXNxN2', NULL, '2023-11-11 10:14:54', NULL),
 (19, 'Agus', 'agus@agus.com', 'user', '$2y$10$AvwKjLivwo3xv3ufxBr4v.fvWuBojFJOdbL7dSspwsEA8nDvdtlIu', NULL, '2023-11-11 10:17:41', NULL);
 
 --
